@@ -1,0 +1,19 @@
+Difference between white box testing, black box testing, and gray box testing.
+
+white box testing :
+1. it is structural testing.
+2. code visible to the tester.
+3. this testing works by looking at testing from the developers points view.
+4. Granularity level is higher
+
+black box testing :
+1. this type of testing is carried out b testers.
+2. code is hidden to the tester.
+3. coding is not needed in black box testing.
+4. time consumption less exhaustive.
+
+gray box testing :
+1. gray box testing is known as tranlucent box testing.
+2. not suited to algorithm testing.
+3. knowledge of the insides of the application.
+4. medium level granularity.
