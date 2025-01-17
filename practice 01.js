@@ -10,3 +10,8 @@
 
 
  //console.log(`${curday}/${curmonth}/${curyear}/${format}:${curminute}${ampm}`)
+
+
+
+ console.log(Math.floor(Math.random()*11));
+ console.log(Math.floor(Math.random()*10));
